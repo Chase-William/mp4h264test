@@ -1,0 +1,7 @@
+﻿<Application
+    x:Class="mp4h264experimental.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:mp4h264experimental">
+
+</Application>
